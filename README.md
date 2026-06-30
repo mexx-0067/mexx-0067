@@ -6,7 +6,7 @@ Web developer with experience across academic projects and commercial work. I en
 - 🎓 I am [Seneca Polytechnic](https://www.senecapolytechnic.ca/homepage.html) graduate
 - 💼 I build web applications for both school labs and client/commercial projects
 - 🌱 Currently learning: [Kubernetes]
-- 📫 Reach me: [email](tursunov_mehroj0067@gmail.com) [linkedIn](https://www.linkedin.com/in/mehroj-tursunov-8a20b1300/)
+- 📫 Reach me: [tursunov_mehroj0067@gmail.com](mailto:tursunov_mehroj0067@gmail.com) [linkedIn](https://www.linkedin.com/in/mehroj-tursunov-8a20b1300/)
 
 ## 🛠️ Tech Stack
  
