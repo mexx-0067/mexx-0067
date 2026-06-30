@@ -23,10 +23,6 @@ Web developer with experience across academic projects and commercial work. I en
 **Tools & Other:** Git, Bash/Shell scripting
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mexx-0067&show_icons=true&theme=default)
-
 ---
 ⭐️ From [Mehroj](https://github.com/mexx-0067)
 <!--
