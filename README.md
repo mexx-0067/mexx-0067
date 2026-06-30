@@ -1,6 +1,5 @@
 # 💫 About Me:
-i am a Seneca Polytechnic graduate in computer science major. i wanna publish all my works during academic period and my comercial works aswell for job hunting. i am a full stack developer with a strong knowledge on python and datastructures. also had a works done on ai field.
-
+Web developer with experience across academic projects and commercial work. I enjoy building clean, functional interfaces and solving real problems with code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mehroj-tursunov-8a20b1300/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tursunovmehroj0067@gmail.com) 
